@@ -1,7 +1,7 @@
 # Ex.No: 11   Pytest Installation
 
 ### DATE: 22/10/2024                                                                    
-### REGISTER NUMBER : 212222040038
+### REGISTER NUMBER : 212222040150
 
 ### AIM: 
 To install Pytest and to write test cases for a program and to test using Pytest.
